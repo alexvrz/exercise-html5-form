@@ -1,0 +1,44 @@
+
+form{
+   
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    border-radius: 5px;
+    border: solid 1px;
+}
+.color{
+
+    margin: 5px;
+}
+.colorrojo{
+
+    margin-right: 30px;
+}
+.coloramount{
+ 
+    padding-left: 50px;
+}
+.monto{
+    margin-left: 10px;
+}
+.borde{
+    background-color: rgb(173, 173, 173);
+     padding-left: 6px;
+     border-radius: 4px;
+}
+.mensaje{
+    width: 250px;
+    height: 80px;
+}
+button{
+    float: right;
+
+}
+.pago{
+    font-size: x-large;
+    font-weight: 600;
+    padding-left: 15px;
+    
+    
+}
